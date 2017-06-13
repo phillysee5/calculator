@@ -48,6 +48,8 @@ button:focus {
   font-size: 1.6em;
   font-weight: 600;
   padding-right: 5px;
+  border-top: solid #282925 3px;
+  border-left: solid #282925 2px;
 }
 
 #panelbox {
